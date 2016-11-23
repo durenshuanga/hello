@@ -1,0 +1,30 @@
+$RECYCLE.BIN/
+Apps/
+bootmgr
+BOOTNXT
+DBAR_Ver.txt
+DELL/
+dell.sdr
+Documents and Settings@
+Drivers/
+hello/
+hiberfil.sys
+Intel/
+KDubaSoftDownloads/
+KRECYCLE/
+OFFICE14/
+pagefile.sys
+PerfLogs/
+Program Files/
+Program Files (x86)/
+ProgramData/
+QMDownload/
+Recovery.txt
+swapfile.sys
+System Volume Information/
+Temp/
+TheWorld.ini
+unknow.log
+Users/
+WEXAM/
+Windows/
